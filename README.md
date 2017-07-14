@@ -1,2 +1,2 @@
 # BullCowGame
-A fun game word game I made.
+A fun game word game I made in Xcode.
