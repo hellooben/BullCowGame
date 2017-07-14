@@ -1,2 +1,4 @@
 # BullCowGame
-A fun game word game I made in Xcode.
+A fun command line word game I made in Xcode.
+
+Run the BullCowGame executable to play :D
